@@ -1,0 +1,17 @@
+input {
+}
+
+.inputsquare {
+    -moz-appearance: textfield;
+    -webkit-appearance: textfield;
+    margin-top: 5px;
+    width: 50px;
+    background-color: white;
+    background-color: -moz-field;
+    border: 1px solid darkgray;
+    box-shadow: 1px 1px 1px 0 lightgray inset;  
+    font: -moz-field;
+    font: -webkit-small-control;
+    margin-top: 5px;
+    padding: 2px 3px;
+}
